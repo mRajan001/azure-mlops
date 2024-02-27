@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mitesh.rajan/OneDrive%20-%20Oxitec/Desktop/azure-mlops/mlruns/0/2675b167715747d684f23ed53871143f/artifacts
+end_time: 1708689433773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2675b167715747d684f23ed53871143f
+run_name: masked-hog-231
+run_uuid: 2675b167715747d684f23ed53871143f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708689426989
+status: 3
+tags: []
+user_id: mitesh.rajan

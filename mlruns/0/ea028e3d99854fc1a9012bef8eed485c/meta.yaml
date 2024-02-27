@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mitesh.rajan/OneDrive%20-%20Oxitec/Desktop/azure-mlops/mlruns/0/ea028e3d99854fc1a9012bef8eed485c/artifacts
+end_time: 1708689715719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea028e3d99854fc1a9012bef8eed485c
+run_name: rumbling-pug-23
+run_uuid: ea028e3d99854fc1a9012bef8eed485c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708689711727
+status: 3
+tags: []
+user_id: mitesh.rajan
